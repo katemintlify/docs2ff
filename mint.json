@@ -54,6 +54,7 @@
   "navigation": [
     {
       "group": "Get Started",
+      "icon": "circle-2",
       "pages": ["introduction", "quickstart", "development"]
     },
     {
