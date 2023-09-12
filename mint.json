@@ -22,6 +22,10 @@
     {
       "name": "Support",
       "url": "mailto:hi@mintlify.com"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/mintlify/starter"
     }
   ],
   "topbarCtaButton": {
